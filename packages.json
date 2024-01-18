@@ -1,0 +1,8 @@
+[
+    {
+        "package": "opendp",
+        "url": "https://github.com/opendp-dev/opendp-dev",
+        "branch": "r-latest",
+        "subdir": "R/opendp"
+    }
+]
